@@ -1,0 +1,11 @@
+target/
+*.class
+*.log
+*.db
+*.mv.db
+*.trace.db
+.idea/
+*.iml
+.DS_Store
+*.pdf
+*.csv
